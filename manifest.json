@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "591隔套買房租金報酬試算",
+  "description": "依照591上的房價試算隔套出租報酬率",
+  "version": "0.0.0.1",
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
